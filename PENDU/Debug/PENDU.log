@@ -1,0 +1,4 @@
+﻿  fonction.cpp
+C:\Users\Massi\Desktop\work\C++\PENDU\PENDU\fonction.cpp(12,12): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Massi\Desktop\work\C++\PENDU\PENDU\fonction.cpp(52,19): warning C4018:  '<' : incompatibilité signed/unsigned
+  PENDU.vcxproj -> C:\Users\Massi\Desktop\work\C++\PENDU\Debug\PENDU.exe
